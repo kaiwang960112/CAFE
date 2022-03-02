@@ -4,7 +4,7 @@
 ## This year, five papers have been accepted by CVPR-2022, includes Faster Face Clssification (https://github.com/tiandunx/FFC), ContrastiveCrop (https://github.com/xyupeng/ContrastiveCrop). The github repos of other two papers (about RVOS and Zero-Shot Learning) will come soon! 
 
 
-                                  Kai Wang, Bo Zhao, Xiangyu Peng, Zheng Zhu, Shuo Yang, 
+                              Kai Wang, Bo Zhao, Xiangyu Peng, Zheng Zhu, Shuo Yang, 
 			      Shuo Wang, Guan Huang, Hakan Bilen, Xinchao Wang, and Yang You
                       National University of Singapore, The University of Edinburgh, PhiGent Robotics, 
 	           University of Technology Sydney, Institute of Automation, Chinese Academy of Sciences
