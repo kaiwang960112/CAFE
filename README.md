@@ -1,7 +1,7 @@
 # CAFE: Learning to Condense Dataset by Aligning Features
 
 ## This is a method of dataset condensation, and it has been accepted by CVPR-2022!!!! The source code of CAFE will release to public soon.
-## This year, five papers have been accepted by CVPR-2022, includes Faster Face Clssification (https://github.com/tiandunx/FFC), ContrastiveCrop (https://github.com/xyupeng/ContrastiveCrop). The github repos of other two papers (about RVOS and Zero-Shot Learning) will come soon! 
+## This year, five papers have been accepted by CVPR-2022, includes CAFE (first-author), Faster Face Clssification (first-author, https://github.com/tiandunx/FFC), and ContrastiveCrop (equal-first-author, https://github.com/xyupeng/ContrastiveCrop). The github repos of other two papers (about RVOS and Zero-Shot Learning) will come soon! 
 
 
                               Kai Wang, Bo Zhao, Xiangyu Peng, Zheng Zhu, Shuo Yang, 
