@@ -9,7 +9,7 @@
                       National University of Singapore, The University of Edinburgh, PhiGent Robotics, 
 	           University of Technology Sydney, Institute of Automation, Chinese Academy of Sciences
                                              kai.wang@comp.nus.edu.sg
-			        Kai Wang and Xiaojiang Peng are equally-contributted authors
+			        Kai Wang and Bo Zhao are equally-contributted authors
 
 We are updating the full-text of our paper. Coming soon.
 
