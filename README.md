@@ -18,5 +18,5 @@ the real-feature distribution as well as the discriminant power of the resulting
 for the classification of real samples. Our scheme is further backed up by a novel dynamic bi-level optimization, which adaptively adjusts parameter updates to prevent over-/under-fitting. We validate the proposed CAFE across various datasets, and demonstrate that it generally outperforms the state of the art: on the SVHN dataset, for example, the performance gain is up to 11\%. Extensive experiments and analysis verify the effectiveness and necessity of proposed designs. Our code will be made publicly available. 
 	
 ## Motivation
-![image](https://github.com/kaiwang960112/CAFE/edit/main/figs/motivation.png)
+![image](https://github.com/kaiwang960112/CAFE/blob/main/figs/motivation.png)
 
