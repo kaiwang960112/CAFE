@@ -6,8 +6,8 @@
 
                               Kai Wang, Bo Zhao, Xiangyu Peng, Zheng Zhu, Shuo Yang, 
 			      Shuo Wang, Guan Huang, Hakan Bilen, Xinchao Wang, and Yang You
-                    National University of Singapore, The University of Edinburgh, PhiGent Robotics, 
-	              University of Technology Sydney, Institute of Automation, Chinese Academy of Sciences
+                  National University of Singapore, The University of Edinburgh, PhiGent Robotics, 
+	            University of Technology Sydney, Institute of Automation, Chinese Academy of Sciences
                                              kai.wang@comp.nus.edu.sg
 			        Kai Wang and Bo Zhao are equally-contributted authors
 
