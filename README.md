@@ -28,4 +28,8 @@ for the classification of real samples. Our scheme is further backed up by a nov
 ## Pipeline
 ![image](https://github.com/kaiwang960112/CAFE/blob/main/figs/pipeline.png)
 
+## Visualization
+![image](https://github.com/kaiwang960112/CAFE/blob/main/figs/visualization.png)
+
+
 
