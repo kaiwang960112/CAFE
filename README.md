@@ -1,5 +1,5 @@
 # CAFE
-# This is a method of dataset condensation, and it has been accepted by CVPR-2022.
+# This is a method of dataset condensation, and it has been accepted by CVPR-2022!!!! This year, I have five papers has been accepted by CVPR-2022, includes Faster Face Clssification (https://github.com/tiandunx/FFC).
 # CAFE: Learning to Condense Dataset by Aligning Features
 
                                   Kai Wang, Bo Zhao, Xiangyu Peng, Zheng Zhu, Shuo Yang, 
