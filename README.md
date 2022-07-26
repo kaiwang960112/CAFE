@@ -12,8 +12,7 @@
 			        Kai Wang and Bo Zhao are equally-contributted authors
 
 We are updating the full-text of our paper. Coming soon.
-
-
+## I am preparing other deadlines, if you want to use the pre-released code of CAFE, please feel free to email me! Thanks!
 
 ### Abstract
 
