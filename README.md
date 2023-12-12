@@ -1,6 +1,6 @@
 ## CAFE: Learning to Condense Dataset by Aligning Features [link](https://arxiv.org/pdf/2203.01531.pdf)
 
-### This is a method of dataset condensation, and it has been accepted by CVPR-2022. The source code of CAFE will release to public soon.
+### This is a method of dataset condensation, and it has been accepted by CVPR-2022.
 
 
 
@@ -11,8 +11,11 @@
                                              kai.wang@comp.nus.edu.sg
 			        Kai Wang and Bo Zhao are equally-contributted authors
 
-We are updating the full-text of our paper. Coming soon.
-## I am preparing other deadlines, if you want to use the pre-released code of CAFE, please feel free to email me! Thanks!
+## Getting Started
+Run the following command to perform the distillation
+```
+python distill.py  --dataset CIFAR10  --model ConvNet  --ipc 10
+```
 
 ### Abstract
 
@@ -29,6 +32,7 @@ for the classification of real samples. Our scheme is further backed up by a nov
 
 ### Visualization
 ![image](https://github.com/kaiwang960112/CAFE/blob/main/figs/visualization.png)
+
 
 
 
